@@ -1,8 +1,15 @@
 venv
 .venv
 /venv
+.venv/
+
 .idea
 idea
 \idea
-env
+.idea/
+.envenv
 env/
+.env/
+
+
+.idea/workspace.xml
