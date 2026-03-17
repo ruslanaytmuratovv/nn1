@@ -11,7 +11,7 @@ dp = Dispatcher()
 
 @dp.message(CommandStart())
 async def start(msg:Message):
-    await msg.answer('salem ruslan')
+    await msg.answer('salem hammme')
 
 async def main():
     await dp.start_polling(bot)
